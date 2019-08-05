@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72caa7e4-c676-40bd-88ce-0699d9ffcf55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/BMWBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/BMWModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/BenzBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/BenzModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/BuilderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/CarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/DynamicClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/GamePlayIH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/GamePlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/GamePlayerProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/IGamePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,14 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/DynamicClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
+            <state relative-caret-position="318">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -96,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/DynamicClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/GamePlayIH.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -122,41 +117,6 @@
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -167,6 +127,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -175,6 +136,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.suidyi.design.builder" />
       <recent name="com.suidyi.design.template" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\idea\demo-19\design-patterns" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,12 +239,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564726910494</updated>
-      <workItem from="1564726915225" duration="10525000" />
+      <workItem from="1564726915225" duration="10662000" />
     </task>
+    <task id="LOCAL-00001" summary="commit proxy and builder pattern">
+      <created>1564995279519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564995279519</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10525000" />
+    <option name="totallyTimeSpent" value="10662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -289,10 +261,10 @@
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.22453083" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.22453083" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32956153" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.24929178" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.19830029" />
       <window_info anchor="bottom" id="MyBatis Log" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
@@ -301,7 +273,7 @@
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.37677053" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.37677053" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -343,6 +315,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit proxy and builder pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit proxy and builder pattern" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -564,13 +540,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suidyi/design/proxy/DynamicClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="318">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
